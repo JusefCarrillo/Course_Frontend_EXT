@@ -34,3 +34,10 @@ En la clase, se estudiaron los diferentes tipos de funciones que se pueden aplic
 En los ejercicios, aplicamos las diferentes formas de llamar a una función.
 
 En la práctica, se realizaron funciones para poder agregar y ver los libros leídos.
+
+
+## CLASE 05: Objetos
+
+En esta clase, aprendimos cómo se definen los objetos en JavaScript, cómo se crean sus elementos y cómo acceder y manipular estos elementos. También discutimos cuándo y cómo se podría hacer uso de los objetos, junto con ejemplos prácticos de su aplicación. Además, abordamos la creación de clases con sus respectivos constructores y el uso de "extends" para copiar o heredar las propiedades de otra clase.
+
+Durante la práctica, aplicamos los conocimientos adquiridos mediante la declaración de un objeto "libro" y la manipulación de los datos en el objeto de la clase correspondiente.

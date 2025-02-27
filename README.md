@@ -41,3 +41,9 @@ En la práctica, se realizaron funciones para poder agregar y ver los libros le�
 En esta clase, aprendimos cómo se definen los objetos en JavaScript, cómo se crean sus elementos y cómo acceder y manipular estos elementos. También discutimos cuándo y cómo se podría hacer uso de los objetos, junto con ejemplos prácticos de su aplicación. Además, abordamos la creación de clases con sus respectivos constructores y el uso de "extends" para copiar o heredar las propiedades de otra clase.
 
 Durante la práctica, aplicamos los conocimientos adquiridos mediante la declaración de un objeto "libro" y la manipulación de los datos en el objeto de la clase correspondiente.
+
+## CLASE 05: Introducción al DOM
+
+En esta clase vimos varios temas relacionados con el DOM (Document Object Model). Aprendimos qué es el DOM, su relación y estructura en una página web HTML, y cómo podemos manipular los elementos mediante JavaScript. Esto incluye agregar y eliminar elementos, así como aplicar estilos. También exploramos las funciones y métodos para modificar el DOM y el uso de "event listeners" como "onclick".
+
+Durante la práctica, aplicamos lo aprendido construyendo una caja de comentarios. Al presionar el botón, el comentario se publicaba debajo junto con la fecha, y también se podía eliminar el comentario. Todo esto se logró utilizando los conceptos vistos en la clase.

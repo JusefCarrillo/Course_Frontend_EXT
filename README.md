@@ -54,3 +54,6 @@ En esta sección se profundizó en la manipulación del DOM, abarcando tanto HTM
 
 En la práctica, se aplicaron estos conocimientos mediante el desarrollo de un generador de contraseñas. En este proyecto, se accedió a los elementos HTML por su ID y se implementó una función que se ejecuta al hacer clic en el botón "Generar Contraseña". Esta función invoca a un objeto encargado de contener y procesar los datos, declara listas/arrays con la información necesaria y recorre dichos elementos mediante ciclos. Además, se utilizaron funciones lógicas dentro de condicionales y se aplicó una estructura switch, logrando modificar tanto el HTML como el CSS a través de JavaScript.
 
+## Proyecto Final: Introducción al DOM
+
+En este proyecto final se aplicaron todos los conocimientos adquiridos a lo largo del curso, además de incorporar el uso de localStorage como tema adicional. Basándose en proyectos similares descritos previamente y haciendo referencia a la Práctica 7, se implementó una funcionalidad extra: la persistencia local de los datos de los comentarios. Al iniciar sesión, cuando el usuario realiza un comentario, los datos se almacenan en localStorage; de este modo, al simular el ingreso de otro usuario, éste podrá visualizar los comentarios realizados por los demás.

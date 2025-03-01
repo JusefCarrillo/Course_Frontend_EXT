@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="homeStyle.css">
+  <title>Home - VW-Shop</title>
+</head>
+<body>
+  <header>
+    <h1>Vapor Shop :)</h1>
+  </header>
+  <main>
+    <section class="main-container">
+      <div class="descripcion-container">
+        <h2>Camisa chidita</h2>
+        <p>Deja con el ojo cuadrado</p>
+      </div>
+      <div class="imagen-container">
+        <img src="https://vapor95.com/cdn/shop/products/HawaiianshirtVICEfront.jpg?v=1674593145&width=2000" alt="Imagen de producto">
+      </div>
+    </section>
+    
+    <section class="comment-container">
+      <h2>Comentarios</h2>
+      <p id="user-info"></p>
+      <textarea placeholder="Publica un comentario" id="comment"></textarea>
+      <button onclick="postComment()">Publicar</button>
+      <div id="comment-section"></div>
+    </section>
+  </main>
+  <footer>
+    <p>Jusef Carrillo - 2025</p>
+  </footer>
+  <script src="home.js"></script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Generador de Contraseña</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="contenedor">
+    <h1>Generador de Contraseña</h1>
+
+    <div class="mostrar-contrasena" id="mostrarContrasena">
+      **********
+    </div>
+
+    <div class="contenedor-opciones">
+      <label>
+        <input type="checkbox" id="mayusculas" />
+        Incluir mayúsculas
+      </label>
+      <label>
+        <input type="checkbox" id="minusculas" />
+        Incluir minúsculas
+      </label>
+      <label>
+        <input type="checkbox" id="numeros" />
+        Incluir números
+      </label>
+      <label>
+        <input type="checkbox" id="simbolos" />
+        Incluir símbolos
+      </label>
+    </div>
+
+    <div class="medidor-seguridad">
+      Seguridad: <span id="textoSeguridad">Insegura</span>
+    </div>
+
+    <button id="botonGenerar">Generar</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
